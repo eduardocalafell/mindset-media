@@ -5,6 +5,7 @@ cd "$(dirname "$0")"
 npm i canvas jsdom >/dev/null 2>&1
 pip install fonttools numpy --break-system-packages -q 2>/dev/null || pip install fonttools numpy -q
 mkdir -p fonts && cd fonts
+if [ -f Oswald-700.ttf ] && [ -f Inter-500.ttf ] && [ -f NotoEmoji-500.ttf ]; then echo "fontes ja presentes"; exit 0; fi
 for u in "ofl/oswald/Oswald%5Bwght%5D.ttf" "ofl/inter/Inter%5Bopsz,wght%5D.ttf" "ofl/inter/Inter-Italic%5Bopsz,wght%5D.ttf" "ofl/notoemoji/NotoEmoji%5Bwght%5D.ttf"; do
   curl -sSfL -o "$(basename "$u" | sed 's/%5B.*//').ttf" "https://raw.githubusercontent.com/google/fonts/main/$u"; done
 python3 - << 'PY'
