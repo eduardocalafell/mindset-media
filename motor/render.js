@@ -54,7 +54,7 @@ function meta(ctx) {
   };
 }
 
-function toPNG(canvas, out) { const b64 = canvas.toDataURL('image/png').split(',')[1]; fs.writeFileSync(out, Buffer.from(b64, 'base64')); }
+function toPNG(canvas, out) { const jpg = /\.jpe?g$/i.test(out); const b64 = (jpg ? canvas.toDataURL('image/jpeg', .92) : canvas.toDataURL('image/png')).split(',')[1]; fs.writeFileSync(out, Buffer.from(b64, 'base64')); }
 
 async function renderImage(job) {
   const ctx = await boot(); await setup(ctx, job);
