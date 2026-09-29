@@ -1,1 +1,77 @@
-{"posts":[{"data":"2026-09-29","hora":"15:15","tema":"Sogro","estilo":"D","formato":"foto+siga","privacidade":"SELF_ONLY","teste":true,"links":["posts/2026-09-29/sogro-1.png","posts/2026-09-29/sogro-2.png"],"metricool":384452628}]}
+{
+ "posts": [
+  {
+   "data": "2026-09-29",
+   "hora": "15:30",
+   "tema": "Sogro",
+   "estilo": "D",
+   "formato": "foto+siga",
+   "privacidade": "SELF_ONLY",
+   "teste": true,
+   "links": [
+    "posts/2026-09-29/sogro-1.jpg",
+    "posts/2026-09-29/sogro-2.jpg"
+   ],
+   "metricool": 384462451
+  },
+  {
+   "data": "2026-09-29",
+   "hora": "16:05",
+   "tema": "Esposa",
+   "parte": 2,
+   "estilo": "P",
+   "formato": "foto+siga",
+   "bankIdx": 35,
+   "frases": [
+    "Hoje eu lavo a louça. ~(Mentindo)~",
+    "Você é a |CEO| desta casa. Eu sou o |estagiário|.",
+    "Quanto você cobra pelo |lado da cama|?",
+    "Casamos em regime de |peixes raros|?",
+    "Você tem o |direito| de escolher o restaurante. Eu escolho o |prato|.",
+    "|Meu tio| não aprovou você.",
+    "Vou deixar a |toalha molhada| na cama."
+   ],
+   "links": [
+    "posts/2026-09-29/esposa2-1.jpg",
+    "posts/2026-09-29/esposa2-2.jpg"
+   ],
+   "metricool": 384477234
+  },
+  {
+   "data": "2026-09-29",
+   "hora": "18:00",
+   "tema": "Funeral",
+   "parte": 2,
+   "estilo": "O",
+   "formato": "foto+siga",
+   "bankIdx": 40,
+   "frases": [
+    "Tem |salgadinho| ou é só choro?",
+    "Qual era a senha do |Wi-Fi| dele?",
+    "Posso ficar com o |carregador| dele?",
+    "Esse caixão tem |garantia estendida|?",
+    "Ele morreu como viveu: |sem investir|.",
+    "Me venda |essa coroa de flores|.",
+    "Pelo menos agora ele |não paga boleto|.",
+    "Velório ~encerrado~. Pra ele."
+   ],
+   "links": [
+    "posts/2026-09-29/funeral2-1.jpg",
+    "posts/2026-09-29/funeral2-2.jpg"
+   ],
+   "metricool": 384477297
+  },
+  {
+   "data": "2026-09-29",
+   "hora": "19:00",
+   "tema": "Voo cancelado",
+   "estilo": "D",
+   "formato": "video65",
+   "bankIdx": 25,
+   "links": [
+    "posts/2026-09-29/voo-cancelado.mp4"
+   ],
+   "metricool": 384480899
+  }
+ ]
+}
