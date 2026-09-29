@@ -20,7 +20,7 @@ Regras:
 - Evitar estilos Citação (I) e Top 5 sigma (H), que performam mal. Preferir D, O, P, M, K.
 - Frases com número: por extenso + numeral entre parênteses, ex.: "três (3)".
 - Humor pesado (bomba, arma, droga, bebida): não publicar sem aprovação do Eduardo.
-- Fotos: 2 slides (meme + slide "Siga"). Vídeo: 1 arquivo.
+- Fotos: 2 slides (meme + slide "Siga"), SEMPRE em .jpg (o TikTok recusa PNG via API). Vídeo: 1 arquivo .mp4.
 
 ## 3. Gerar e conferir (controle de qualidade)
 - Gere com `node motor/render.js job.json` (kind image/video; photoGroup opcional; py/zoom para enquadrar).
