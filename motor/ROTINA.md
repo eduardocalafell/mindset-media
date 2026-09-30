@@ -29,7 +29,8 @@ Regras:
 
 ## 4. Publicar
 - Suba os arquivos em `posts/AAAA-MM-DD/` deste repositório (links raw.githubusercontent.com).
-- Agende no Metricool (createScheduledPost, network tiktok, autoPublish true, privacyOption PUBLIC_TO_EVERYONE, autoAddMusic true só em fotos).
+- Agende no Metricool (createScheduledPost, network tiktok, privacyOption PUBLIC_TO_EVERYONE, autoAddMusic false, autoPublish false). O Eduardo recebe notificação no app do Metricool e escolhe a música (sons sigma) no TikTok. NUNCA usar música automática nem trilha sintetizada.
+- Vídeos: renderizar com "sound": false.
 - Legenda = título + descrição + 5 hashtags (o render devolve em `caption`).
 - Registre cada post em `motor/historico.json` (data, hora, tema, estilo, frases, foto bankIdx, links, id Metricool) e faça commit.
 
