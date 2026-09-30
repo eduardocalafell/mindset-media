@@ -72,6 +72,149 @@
     "posts/2026-09-29/voo-cancelado.mp4"
    ],
    "metricool": 384480899
+  },
+  {
+   "data": "2026-09-30",
+   "hora": "10:00",
+   "tema": "Detran",
+   "parte": 2,
+   "estilo": "D",
+   "formato": "foto+siga",
+   "bankIdx": 30,
+   "frases": [
+    "|Tire o cinto.|",
+    "|Meu tio| irá me examinar.",
+    "Eu gostaria de falar diretamente com a |CNH|. ~(Sedutoramente)~",
+    "Me venda |esta CNH|.",
+    "Aqui quem está sendo |avaliado| é você.",
+    "Vá para o |banco de trás| sem desviar o olhar.",
+    "Estacione perto dos |peixes raros|.",
+    "Você tem três (3) minutos para |me impressionar|.",
+    "Onde está meu |leite polinésio|?",
+    "Prova ~encerrada~."
+   ],
+   "links": [
+    "posts/2026-09-30/detran2-1.jpg",
+    "posts/2026-09-30/detran2-2.jpg"
+   ],
+   "metricool": 384983023,
+   "autoPublish": false
+  },
+  {
+   "data": "2026-09-30",
+   "hora": "12:00",
+   "tema": "Entrevista de emprego",
+   "parte": 1,
+   "estilo": "D",
+   "formato": "video65 sem som",
+   "bankIdx": 8,
+   "frases": [
+    "Onde o senhor se vê |daqui a cinco (5) anos|?",
+    "Meu maior defeito é |ser perfeito demais|.",
+    "Posso começar |semana que vem, às onze (11) horas|?",
+    "Qual é a sua |experiência profissional|?",
+    "Nasci com |pouca idade|.",
+    "Você quer fazer uma |guerra de dedão|?",
+    "Eu não respondo a |perguntas|.",
+    "|Pare| de olhar para |mim|.",
+    "Faça-me o |CEO| de |tudo|.",
+    "Eu que vou te |avaliar| hoje."
+   ],
+   "links": [
+    "posts/2026-09-30/entrevista.mp4"
+   ],
+   "metricool": 384989142,
+   "autoPublish": false
+  },
+  {
+   "data": "2026-09-30",
+   "hora": "14:00",
+   "tema": "Caixa do mercado",
+   "parte": 3,
+   "estilo": "K",
+   "formato": "foto+siga",
+   "bankIdx": 47,
+   "frases": [
+    "Quer a nota? |Nota dez (10)|.",
+    "Crédito? |Quem você pensa que eu sou?|",
+    "Débito ou crédito? |Cinco (5) feijões do Cazaquistão|.",
+    "Vocês aceitam |rim|?",
+    "Cite |dez (10) caixas|.",
+    "Meus tios |saberão disso|.",
+    "Como você me vê |daqui a cinco (5) anos| nessa fila?",
+    "Me venda |este mercado| em um (1) minuto."
+   ],
+   "links": [
+    "posts/2026-09-30/caixa3-1.jpg",
+    "posts/2026-09-30/caixa3-2.jpg"
+   ],
+   "metricool": 384983094,
+   "autoPublish": false
+  },
+  {
+   "data": "2026-09-30",
+   "hora": "16:00",
+   "tema": "Bebê atrasado na vida",
+   "parte": 2,
+   "estilo": "M",
+   "formato": "foto+siga",
+   "bankIdx": 15,
+   "frases": [
+    "Nenhum |imóvel| no nome",
+    "Depende |cem por cento (100%)| dos pais",
+    "Chora em |reunião|",
+    "Ainda não restaurou o |Império Romano|",
+    "Não possui fazendas de |batata-doce na Romênia|",
+    "Ainda não tem perfil no |LinkedIn|",
+    "Caga na |própria fralda| em vez de na fralda dos outros"
+   ],
+   "links": [
+    "posts/2026-09-30/bebe2-1.jpg",
+    "posts/2026-09-30/bebe2-2.jpg"
+   ],
+   "metricool": 384983162,
+   "autoPublish": false
+  },
+  {
+   "data": "2026-09-30",
+   "hora": "18:00",
+   "tema": "Motorista de aplicativo",
+   "parte": 2,
+   "estilo": "E",
+   "formato": "foto+siga",
+   "bankIdx": 11,
+   "frases": [
+    "Trouxe meu |próprio carro|.",
+    "|Deixa eu dirigir|, você não sabe o que está fazendo.",
+    "Você errou uma |curva à esquerda há quinze (15) minutos|.",
+    "|Esqueci| meu |endereço|.",
+    "|Me leva para sua casa|.",
+    "|Me vende este carro|.",
+    "Qual é a sua |intenção| com o meu destino?",
+    "Desça, |eu assumo daqui|.",
+    "Foi |aqui| que eu morri. ~(Parando numa rua aleatória)~"
+   ],
+   "links": [
+    "posts/2026-09-30/motorista2-1.jpg",
+    "posts/2026-09-30/motorista2-2.jpg"
+   ],
+   "metricool": 384983242,
+   "autoPublish": false
+  },
+  {
+   "data": "2026-09-30",
+   "hora": "19:00",
+   "tema": "Namorada",
+   "parte": 1,
+   "estilo": "P",
+   "formato": "video65 sem som",
+   "bankIdx": 34,
+   "frases": null,
+   "links": [
+    "posts/2026-09-30/namorada.mp4"
+   ],
+   "metricool": 384989233,
+   "autoPublish": false
   }
  ]
 }
